@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "image": "card_1.jpg",
+            "name": "Hannya",
+            "article": "m1",
+            "available": true,
+            "category": "mask"
+        },
+        {
+            "image": "card_2.jpg",
+            "name": "Gas mask",
+            "article": "m2",
+            "available": true,
+            "category": "mask"
+        },
+        {
+            "image": "card_3.jpg",
+            "name": "Solitaire",
+            "article": "m3",
+            "available": true,
+            "category": "mask"
+        },
+        {
+            "image": "card_4.jpg",
+            "name": "Vector",
+            "article": "m4",
+            "available": true,
+            "category": "mask"
+        },
+        {
+            "image": "card_5.jpg",
+            "name": "Red Hood",
+            "article": "h1",
+            "available": true,
+            "category": "helmet"
+        },
+        {
+            "image": "card_6.jpg",
+            "name": "RT-01SBM",
+            "article": "m5",
+            "available": true,
+            "category": "mask"
+        },
+        {
+            "image": "card_7.jpg",
+            "name": "Mandalorian Helmet",
+            "article": "h2",
+            "available": true,
+            "category": "helmet"
+        },
+        {
+            "image": "card_8.jpg",
+            "name": "Mandalorian Helmet",
+            "article": "h3",
+            "available": true,
+            "category": "helmet"
+        },
+        {
+            "image": "card_9.jpg",
+            "name": "NeoCat",
+            "article": "m6",
+            "available": true,
+            "category": "mask"
+        }
+    ]
+}
